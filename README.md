@@ -14,3 +14,6 @@ Folder output_text_files contains all the text files output for the different ru
 
 
 Folder Final_project_code contains the final project code and project report for the porject it contains .py and ipynb file and pdf of .ipynb file please refer this folder only to check my final code, experimental_runs folder just contains experimental results using different hyperparemeter settings but the Folder Final_project_code contains my final perfect code so refer this folder only for the final code.
+
+
+Refer 1130532_NLP_Project_Readme_file on how to run the code
