@@ -4,7 +4,7 @@ NLP project
 This is a readme file to guide 
 
 
-Folder Datasets contains all the data sets which were used for the project, including embedding files, list of contractions, data file and csv files.
+There is limit to upload data on github so cant upload the data files so i am sharing the link of my drive which contains all the data files https://drive.google.com/drive/folders/1ziXvv8s2_WlflTG8pn-eyZjOfFbt75px?usp=sharing used for the project
 
 
 Folder experimental_runs contains the results of experiments carried out before finalizing the full code with final changes, this folder contains the experimental results for different hyper parameters checkout the pdf files inside this folder for the detailed output also ippynb files are there to see output, the ipynb file and pdf file in this folder are just results of the experimental results.
